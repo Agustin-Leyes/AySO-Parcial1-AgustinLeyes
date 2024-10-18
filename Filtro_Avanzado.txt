@@ -1,0 +1,6 @@
+Esta es mi ip
+181.46.68.208
+Mi usuario es : vagrant
+
+El hash es :
+vagrant:$y$j9T$YKDqIFD.esIbEj1zqtfhF1$2BxW2Gvo/GCjKPKWJ75Rb3jADWRLpZ7W9MOZmyB5RX2:19978:0:99999:7:::
